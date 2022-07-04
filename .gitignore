@@ -1,0 +1,4 @@
+# Ignore files
+*.md
+test.rb
+.DS_Store
